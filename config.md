@@ -7,7 +7,7 @@ The website_* must be defined for the RSS to work
 @def website_descr = "An interesting place."
 @def website_url   = ""
 
-@def author = "Yang Ning"
+@def author = "Yang Sen"
 
 @def mintoclevel = 2
 
