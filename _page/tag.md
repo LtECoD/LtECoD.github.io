@@ -3,6 +3,7 @@
 # Posts by tag
 
 * [`data science`](/tag/datascience/)
+* [`casual inference`](/tag/causalinference/)
 <!-- * posts with tag [`computing`](/tag/computing/)
 * posts with tag [`maths`](/tag/maths/)
 * posts with tag [`scicom`](/tag/scicom/)

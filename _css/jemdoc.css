@@ -1,6 +1,6 @@
 /* Default css file for jemdoc. */
 
-@media (max-width: 750px) {
+/* @media (max-width: 750px) {
   .box {
     display: block;
   }
@@ -25,10 +25,10 @@
   }
 
   .layout-menu {
-    margin-top: 5rem;
-    margin-left: 1rem;
+    margin-top: 4.25rem;
+    margin-left: 5rem;
   }
-}
+} */
 
 body {
   background: white;
@@ -168,7 +168,7 @@ h3 {
 }
 
 h1 {
-  font-size: 150%;
+  font-size: 165%;
   padding-top: 2em;
 }
 
@@ -480,8 +480,6 @@ div.blockcontent {
 div#footer-text {
   padding-bottom: 8px;
 }
-
-.franklin-content { padding-left: 6%; }
 
 table {
   margin-bottom: 1em;

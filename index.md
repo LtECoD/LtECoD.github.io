@@ -34,7 +34,7 @@
 <body>
 <a href="https://github.com/LtECoD/"><i class="fa fa-github"></i> Github</a>
 <br><br>
+<a href="mailto:yangsen.nudt@hotmail.com"><i class="fa fa-mail-reply"></i> Mail</a>
+<br><br>
 </body>
 ~~~
-
-[✉️ Mail](mailto:yangsen.nudt@hotmail.com)
