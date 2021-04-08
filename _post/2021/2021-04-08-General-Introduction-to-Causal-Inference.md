@@ -2,9 +2,8 @@
 title = "General-Introduction-to-Causal-Inference"
 hascode = false
 date = Date(2021, 04, 08)
-
 +++
-@def tags = ["causalinference", "datascience"]
+@def tags = ["causalinference"]
 
 # General Introduction to Causal Inference
 
