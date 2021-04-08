@@ -1,5 +1,4 @@
 +++
-title = "Potential Outcomes Framework"
 hascode = false
 date = Date(2021, 04, 07)
 +++

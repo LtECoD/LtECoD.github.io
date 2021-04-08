@@ -1,4 +1,3 @@
-@def title = "publication"
 @def hascode = false
 
 # Publication

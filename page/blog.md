@@ -1,4 +1,3 @@
-@def title = "blog"
 @def hascode = false
 
 # Blog
