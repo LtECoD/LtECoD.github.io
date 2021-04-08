@@ -14,6 +14,10 @@ date = Date(2021, 04, 08)
 
 ## Correlation Doesn't Imply Causality
 
+One natural question about causal inference is why we need it? 
+
+
+
 There is no doubt **causality** is the core issue of CI. It has been long declared in many writings that **Correlation doesn't imply causality**, then what is the difference between these two concepts. Both of them describe relationship between variables, but correlation indicates a more general relation than causality. When we say two variables are correlated, we actually means these two variables display an increasing or decreasing trend. Compared to correlation, causality involves cause and effect. When we adjust cause variables, effect variables will change also. But the opposite could not hold, i.e., when we change the effect variables, the cause variables may not changes at all. From this view, causality can been seen as a subsect of correlation in some degree. Below is a good example to distinct casuality and correlation:
 
 >A study showed that girls have breakfast normally have lightweight than the girls who don’t, and thus concluded that having breakfast can help to lose weight. But in fact, these two events may just have correlation instead of causality. Maybe the girls who have breakfast everyday have a better lifestyle, such as exercise frequently, sleep regularly, and have a healthy diet, which finally makes them have lightweight. In this case, having a better lifestyle is the common cause of both having breakfast and lightweight, and thus we also can treat it as a confounder of the causality between having breakfast and lightweight.[1]
@@ -36,12 +40,22 @@ Then I found a concise description of the target of causal inference in a [surve
 **Treatment effect** in this sentence seems unfamilar. Roughly speaking, it measures the influence amount of one action to the target. I will introduce this concept as well as other in detail in the subsequent blogs. 
 
 For now, I agree more with this description, because it is more intuitive. 
-
-- [ ] If I have a deeper understanding to the target fo causal inference in the future, I will update this blog.
-
+~~~
+<u>If I have a deeper understanding to the target fo causal inference in the future, I will update this blog.</u>
+~~~
 
 
 ## Applications
+
+Another question about
+
+
+
+### Pearson Paradox
+
+
+
+
 
 ## Causal Inference Frameworks
 
