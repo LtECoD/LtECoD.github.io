@@ -1,5 +1,5 @@
 +++
-title = "General-Introduction-to-Causal-Inference"
+title = "General Introduction to Causal Inference"
 hascode = false
 date = Date(2021, 04, 08)
 +++
