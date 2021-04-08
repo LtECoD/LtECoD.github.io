@@ -1,3 +1,5 @@
+@def title = "blog"
+
 # Blog
 
 I am hosting here a small blog, updated once every blue moon. Most of my posts concern topics I found worthwhile to explore into detail. Others are summaries of books/papers I found particularly interesting, transcripts of presentations I gave or snippets of code to explore.

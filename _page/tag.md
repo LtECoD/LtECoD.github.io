@@ -1,3 +1,5 @@
+@def title = "tag"
+
 # Posts by tag
 
 * [`data science`](/tag/datascience/)
