@@ -1,4 +1,5 @@
 @def title = "tag"
+@def hascode = false
 
 # Posts by tag
 
