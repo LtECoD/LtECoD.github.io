@@ -24,7 +24,7 @@
 
 ## Selected Paper
 1. **Sen Yang**, Dawei Feng, et al. *Exploring pre-trained language models for event extraction and generation*[C]//Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL). 2019: 5284-5294.
-1. **Sen Yang**, Dawei Feng, et al. *Distant Context Aware Text Generation from Abstract Meaning Representation*[J]//Applied Intelligence. 2021.
+2. **Sen Yang**, Dawei Feng, et al. *Distant Context Aware Text Generation from Abstract Meaning Representation*[J]//Applied Intelligence. 2021.
 
 
 ## Contact
