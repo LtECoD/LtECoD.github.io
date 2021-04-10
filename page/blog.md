@@ -8,7 +8,7 @@ I am hosting here a small blog, updated once every blue moon. Most of my posts c
 
 ### 2021
 
-[Summary of *The Book of Why*](/post/2021/2021-04-09-The-Book-of-Why-summary/)
+[Summary of *The Book of Why*](/post/2021/2021-04-09-The-Book-of-Why-Summary/)
 
 [General Introduction to Causal Inference](/post/2021/2021-04-08-General-Introduction-to-Causal-Inference/)
 
