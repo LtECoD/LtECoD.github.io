@@ -8,7 +8,10 @@ I am hosting here a small blog, updated once every blue moon. Most of my posts c
 
 ### 2021
 
-[Potential Outcomes Framework](/post/2021/2021-04-07-Potential-Outcomes-Framework/)
+[Summary of *The Book of Why*](/post/2021/2021-04-09-The-Book-of-Why-summary/)
 
 [General Introduction to Causal Inference](/post/2021/2021-04-08-General-Introduction-to-Causal-Inference/)
+
+[Potential Outcomes Framework](/post/2021/2021-04-07-Potential-Outcomes-Framework/)
+
 

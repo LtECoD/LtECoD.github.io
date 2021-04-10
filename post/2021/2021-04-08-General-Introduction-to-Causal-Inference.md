@@ -26,7 +26,7 @@ There is no doubt **causality** is the core issue of CI. It has been long declar
  In [the book of why](#R1), Judea Pearl introduces the ladder of causality. The bottom of this ladder is seeing (association). The agent in this level can only learn the association of data to make various prediction, such as classification and regression. Therefore, it only focus on the correlation between variables without caring about the causality, which is the issue of the latter two levels of the ladder. Today artificial intelligence belongs to this level.  A classical example in NLP of agent in this level is the language model that model the text by capturing the occurrence of n-grams or tokens.
 
 ~~~
-<img src="/assets/2021/ladderofcausal.png" style="scale:10%"/>
+<img src="/assets/2021/ladderofcausal.png"/>
 ~~~
 
 The second level of the ladder is doing (intervention). The author strenthened in the book the agent in this level can predict what will happen if it does something. Agent in the third level of the ladder, which named imagining (counter factual), can even image what will happen if it have done something. Anyway, these two level still seem confused to me. For example, *does the agent in these two level need interact with the real-world to learn the causality or just from the observed data. If it needs interaction with the real-world, then how?* 
@@ -45,9 +45,7 @@ For now, I agree more with this description, because it is more intuitive.
 
 ## Applications
 
-Another question about
-
-
+🚧
 
 ### Pearson Paradox
 
