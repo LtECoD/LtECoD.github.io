@@ -19,7 +19,8 @@
 ~~~
 
 ## Latest
-1. 2020.12 - 2021.03 &ensp; Research intern in Tecent Inc.
+1. 2021.04.10 &ensp; New paper is accepted by Journal of Applied Intelligence (IF: 3.325, CCF C)
+2. 2020.12.24 &ensp; Research intern (three months) in Tecent Inc.
 
 ## Selected Paper
 1. **Sen Yang**, Dawei Feng, et al. *Exploring pre-trained language models for event extraction and generation*[C]//Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL). 2019: 5284-5294.
