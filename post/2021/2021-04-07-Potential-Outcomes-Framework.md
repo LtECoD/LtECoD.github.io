@@ -2,7 +2,7 @@
 hascode = false
 date = Date(2021, 04, 07)
 +++
-@def tags = ["causalinference", "datascience"]
+@def tags = ["causalinference"]
 
 # Potential Outcomes Framework
 
