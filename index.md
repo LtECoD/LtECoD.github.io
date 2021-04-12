@@ -19,12 +19,15 @@
 ~~~
 
 ## Latest
-1. 2021.04.10 &ensp; New paper is accepted by Journal of Applied Intelligence (IF: 3.325, CCF C)
-2. 2020.12.24 &ensp; Research intern (three months) in Tecent Inc.
+* 2021.04.10 &ensp; New paper is accepted by Journal of Applied Intelligence (IF: 3.325, CCF C)
+* 2020.12.24 &ensp; Research intern (three months) in Tecent Inc.
 
 ## Selected Paper
 1. **Sen Yang**, Dawei Feng, et al. *Exploring pre-trained language models for event extraction and generation*[C]//Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL). 2019: 5284-5294.
 2. **Sen Yang**, Dawei Feng, et al. *Distant Context Aware Text Generation from Abstract Meaning Representation*[J]//Applied Intelligence. 2021.
+
+## Presentation
+1. Introduction to variational autoencoder ([pdf](/assets/presentation/vae.pdf))
 
 ## Contact
 ~~~
