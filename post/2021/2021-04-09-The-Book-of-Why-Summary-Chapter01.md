@@ -2,7 +2,7 @@
 hascode = false
 date = Date(2021, 04, 09)
 +++
-@def tags = ["causalinference"]
+@def tags = ["causalinference", "thebookofwhy"]
 
 # The Book of Why (Chapter 01)
 

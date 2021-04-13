@@ -3,3 +3,4 @@
 # Posts by tag
 
 * [`casual inference`](/tag/causalinference/)
+* [`the book of why`](/tag/thebookofwhy/)
