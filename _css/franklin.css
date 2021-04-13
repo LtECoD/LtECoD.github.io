@@ -93,7 +93,7 @@ html {
 } */
 
 /* On wide screens, fix content width to a max value. */
-@media (min-width: 750px) {
+@media (min-width: 1200px) {
   .layout-menu {
     margin-top: 4.25rem;
     margin-left: 1em;
@@ -113,7 +113,7 @@ html {
 }
 
 /* On narrow device, reduce margins. */
-@media (max-width: 750px) {
+@media (max-width: 1200px) {
   .box {
     display: block;
   }

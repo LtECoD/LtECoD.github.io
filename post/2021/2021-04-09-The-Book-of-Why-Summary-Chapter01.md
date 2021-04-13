@@ -4,7 +4,7 @@ date = Date(2021, 04, 09)
 +++
 @def tags = ["causalinference"]
 
-# The Book of Why
+# The Book of Why (Chapter 01)
 
 \toc
 
@@ -42,9 +42,3 @@ There are still several questions confusing me:
 1. The author mentioned that no machine could derive explanations from raw data. It needs a push. But how to push?
 
 2. Only learning from observed data makes current intelligent machines stay on the first rung. However, the potential outcome framework bases on observed data as well. Is this framework competent for causal inference?
-
-
-## Chapter 2: the genesis of causal inference
-
-:construction:
-

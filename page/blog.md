@@ -8,9 +8,11 @@ I am hosting here a small blog, updated once every blue moon. Most of my posts c
 
 ### 2021
 
-[Summary of *The Book of Why*](/post/2021/2021-04-09-The-Book-of-Why-Summary/)
+[Summary of *The Book of Why*: Chapter 01](/post/2021/2021-04-09-The-Book-of-Why-Summary-Chapter01/)
 
-[General Introduction to Causal Inference](/post/2021/2021-04-08-General-Introduction-to-Causal-Inference/)
+[Summary of *The Book of Why*: Chapter 02](/post/2021/2021-04-13-The-Book-of-Why-Summary-Chapter02/)
+
+[Brief Introduction to Causal Inference](/post/2021/2021-04-08-Brief-Introduction-to-Causal-Inference/)
 
 [Potential Outcomes Framework](/post/2021/2021-04-07-Potential-Outcomes-Framework/)
 
