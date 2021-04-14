@@ -3,7 +3,7 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img class="right" src="./assets/yangning.jpeg" style="width:20%;">
+    <img class="right" src="./assets/myself.png" style="width:30%;border-radius:50%;">
     <p>
       Hi, I am Yang Sen, a Ph.D candidate at National University of Defense Technology (NUDT). I work on natural language generation from multiple modals, including text, image, graph, and table. I will receive my Ph.D degree at Dec 2021. Now, my main focus is on causal inference research because I am interested in creating general intelligent machines. 
     </p>
