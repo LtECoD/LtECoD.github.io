@@ -6,7 +6,7 @@ I am hosting here a small blog, updated once every blue moon. Most of my posts c
 
 ## Posts by year
 
-### 2021
+**2021**
 
 [Summary of *The Book of Why*: Chapter 01](/post/2021/2021-04-09-The-Book-of-Why-Summary-Chapter01/)
 

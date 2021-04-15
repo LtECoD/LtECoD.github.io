@@ -3,7 +3,7 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def website_title = "Yang Ning"
+@def website_title = "Sen Yang"
 @def website_descr = "An interesting place."
 @def website_url   = ""
 
@@ -24,5 +24,21 @@ pages. It can be math commands but does not need to be.
 For instance:
 * \newcommand{\phrase}{This is a long phrase to copy.}
 -->
-\newcommand{\R}{\mathbb R}
-\newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\definition}[2]{
+  @@definition
+  **Definition**: (_!#1_)
+  #2
+  @@
+}
+
+\newcommand{\important}[1]{
+    @@important
+    #1
+    @@
+}
+
+\newcommand{\bluebox}[1]{
+    @@colbox-blue
+    #1
+    @@
+}
