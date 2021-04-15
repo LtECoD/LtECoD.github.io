@@ -1,12 +1,18 @@
 .important {
-  background-color: lemonchiffon;
+  background-color: rgb(235, 231, 198);
   padding: 0.5em;
   margin-bottom: 1em;
 }
 
 .definition {
-  background-color: aliceblue;
-  border-left: 5px solid cornflowerblue;
+  border-left: 5px;
+  padding: 10px;
+  margin-bottom: 1em;
+}
+
+.example {
+  background-color: rgb(239, 245, 215);
+  border-left: 5px solid rgb(179, 176, 57);
   border-radius: 10px;
   padding: 10px;
   margin-bottom: 1em;

@@ -22,14 +22,19 @@ Still taking smoking as an example, the treatment is smoking or not smoking. Not
 
 \definition{Potential Outcome}{Potential outcome is the outcome of a treatment that was applied to a unit.}
 
+An example is shown here to better illustrate the above three definitions:
+\example{Consider the scenario where you are unhappy. And you are considering whether or not to get a dog to help make you happy. In this scenario, you is one of the unit, the treatment is whether or not to get a dog, and the potential outcome is happiness.}
+
+If you become happy after you get the dog, does this mean the dog caused you to be happy? Well, what if you would have also become happy had you not gotten the dog? Okey, answering these causal questions requires an important concept: treatment effect.
+
 \definition{Treatment Effect}{Treatment effect is the gap of potential outcomes between two treatments.}
-The treatment effect can be calculated in different levels. To make these definitions clear, we apply the denotations of \citep{survey} and define the treatment as binary, i.e. one unit can only receive treatment ($T=1$) or not ($T=0$). Then the population is divided into two groups, treated group of which units receive treatment, and control group of which units receive no treatment.
+The treatment effect can be calculated in different levels. To make these definitions clear, we define the treatment as binary, i.e. one unit can only receive treatment ($T=1$) or not ($T=0$). Then the population is divided into two groups, treated group of which units receive treatment, and control group of which units receive no treatment.
 
 At the unit-level, the treatment effect is named as Individual Treatment Effect (ITE), which is defined as:
 $$
 \text{ITE}_i=Y_i(T=1)-Y_i(T=0)
 $$
-where $Y_i(T=1)$ and $Y_i(T=0)$ are the potential outcomes of unit $i$ with treatment $t$ being 0 and 1 respectively.
+where $Y_i(T=1)$ and $Y_i(T=0)$ are the potential outcomes of unit $i$ receiving treatment $T$ being 0 and 1 respectively. Considering the above example, $T=1$ represents getting a dog, while $T=0$ represents not. And $Y=1$ represents being happy, while $Y=0$ represents not.
 
 At the population-level, the treatment effect is named as Average Treatment Effect (ATE), which is defined as:
 $$
@@ -44,13 +49,29 @@ $$
 
 \bluebox{The objective of potential outcomes framework is to estimate the treatment defined on different levels.}
 
-🚧
-
 ## Assumptions
+
+In order to estimate the treatment effect, the following assumption are commonly used in the causal inference literature.
+
+### Assumption 1: No Interference
+
+The assumption emphasizes the independence of each unit, that is, there are no interactions between units. In the context of the above illustrative example, your happiness will not affect others' outcomes. Specifically, it is formulated as:
+$$
+Y_i(T_1,\cdots,T_{i-1},T_i,T_{i+1},\cdots,T_n)=Y_i(T_i)
+$$
+
+### Assumption 2: Ignorability
+
+### Assumption 3: Postivity
+
+🚧
 
 ## Methods
 
 
-## References
+## Acknowledgement
 
-* \biblabel{survey}{Yao, 2020} **Yao L., et al.,**,  A Survey on Causal Inference, 2020.
+This blog refers mainly \cite{survey} and \cite{introduction}.
+
+* \biblabel{survey}{Yao, 2020} **Yao L., et al.**,  A Survey on Causal Inference, 2020.
+* \biblabel{introduction}{Brady, 2021} **Brady Neal**, Introduction to Casual Inference, 2021.

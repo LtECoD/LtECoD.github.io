@@ -31,6 +31,13 @@ For instance:
   @@
 }
 
+\newcommand{\example}[1]{
+  @@example
+  **Example**: #1
+  @@
+}
+
+
 \newcommand{\important}[1]{
     @@important
     #1
