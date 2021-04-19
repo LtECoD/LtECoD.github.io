@@ -49,18 +49,49 @@ $$
 
 \bluebox{The objective of potential outcomes framework is to estimate the treatment defined on different levels.}
 
+In additional there are two definitions for variable, namely the pre-treatment variables and the post-treatment variables.
+
+\definition{Pre-treatment Variables}{Pre-treatment variables are the variables that will not be affected by the treatment.}
+\definition{Post-treatment Variables}{The post-treatment variables are the variables that are affected by the treatment.}
+Note that, pre-treatment variables are also called *background variables*. For example, in the follow figure, variable $X$ and $Z$ are both background variables, while the intermediate variable $U$ is a post-treatment variable.
+
+~~~
+<div align=center>
+<img src="/assets/2021/pretreatmentvar.svg", style="width:30%;"/>
+</div>
+~~~
+
 ## Assumptions
 
 In order to estimate the treatment effect, the following assumption are commonly used in the causal inference literature.
 
 ### Assumption 1: No Interference
 
-The assumption emphasizes the independence of each unit, that is, there are no interactions between units. In the context of the above illustrative example, your happiness will not affect others' outcomes. Specifically, it is formulated as:
+The assumption emphasizes the independence of each unit, that is, there are no interactions between units. In the context of the above illustrative example, your happiness will not affect others' outcomes, and vice versa. Specifically, it is formulated as:
 $$
 Y_i(T_1,\cdots,T_{i-1},T_i,T_{i+1},\cdots,T_n)=Y_i(T_i)
 $$
 
 ### Assumption 2: Ignorability
+
+When we want to compute the treatment effects, like ATE, a natural quantity that comes to mind is association difference: $\mathbb{E}[Y|T=1]-\mathbb{E}[Y|T=0]$. Unfortunately, this is not true in general due to confounding or background variables. However, aforementioned treatment effects are impossible to compute directly because we can't observe all potential outcomes in the same time. Assumption *ignorability* would make it so that the treatment effect is simply the associational difference.
+
+Ignorability indicates that treatment is independent with potential outcomes:
+$$
+(Y(1),Y(0)) \bot T
+$$
+Ignorability is critical because it allows us to reduce avereage treatment effect to the association difference::
+$$
+\begin{aligned}
+    \mathbb{E}[Y(1)]-\mathbb{E}[Y(0)] &=\mathbb{E}[Y(1)|T=1]-\mathbb{E}[Y(0)|T=0] \\
+    &=\mathbb{E}[Y|T=1]-\mathbb{E}[Y|T=0]
+\end{aligned}
+$$
+Ignorability is called *exchangeability* as well, which means that if the treated group and the control group are swapped, we can also get the same result. More specifically, if we take the old treated group as the new control group and take the old control group as the new treated group, the new potential outcomes would keep the same as the old.
+
+Actually, ignorability assumes all the units share the same background variables. Therefore, the changing of treamt
+
+
 
 ### Assumption 3: Postivity
 
