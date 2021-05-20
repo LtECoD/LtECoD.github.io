@@ -102,15 +102,10 @@ Analogously, if two units have the same background variable $X$, the treatment a
 For all values of backgroud variable $X$, treatment assignment is not deterministic:
 $$
 \begin{aligned}
-    \text{P}(T=t|X=x) > 0, \forall t\ \text{and}\ x
+    \text{P}(T=t|X=x) > 0, \forall t,x
 \end{aligned}
 $$
 If treatment assignment probability is zero for some background value $x$, it will be impossible to observe potential outcomes for $x$. In this case, it is unable and meaningless to estimate the treatment effect.
-
-## Methods
-
-🚧
-
 
 ## Acknowledgement
 
