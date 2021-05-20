@@ -80,7 +80,7 @@ Ignorability indicates that treatment is independent with potential outcomes:
 $$
 (Y(1),Y(0)) \bot T
 $$
-Ignorability is critical because it allows us to reduce avereage treatment effect to the association difference::
+Ignorability is critical because it allows us to reduce avereage treatment effect to the association difference:
 $$
 \begin{aligned}
     \mathbb{E}[Y(1)]-\mathbb{E}[Y(0)] &=\mathbb{E}[Y(1)|T=1]-\mathbb{E}[Y(0)|T=0] \\
@@ -89,15 +89,27 @@ $$
 $$
 Ignorability is called *exchangeability* as well, which means that if the treated group and the control group are swapped, we can also get the same result. More specifically, if we take the old treated group as the new control group and take the old control group as the new treated group, the new potential outcomes would keep the same as the old.
 
-Actually, ignorability assumes all the units share the same background variables. Therefore, the changing of treamt
-
-
+Actually, ignorability assumes all the units share the same background variables. Therefore, the changing of treatment has the same effect to all units. But what if the units have different background variables? Then comes conditional ignorability (also named conditional exchangeability or unconfoundedness):
+$$
+\begin{aligned}
+    (Y(1),Y(0)) \bot T | X
+\end{aligned}
+$$
+Analogously, if two units have the same background variable $X$, the treatment assignment mechanism should be same whatever the potential outcomes they have.
 
 ### Assumption 3: Postivity
 
-🚧
+For all values of backgroud variable $X$, treatment assignment is not deterministic:
+$$
+\begin{aligned}
+    \text{P}(T=t|X=x) > 0, \forall t\ \text{and}\ x
+\end{aligned}
+$$
+If treatment assignment probability is zero for some background value $x$, it will be impossible to observe potential outcomes for $x$. In this case, it is unable and meaningless to estimate the treatment effect.
 
 ## Methods
+
+🚧
 
 
 ## Acknowledgement
