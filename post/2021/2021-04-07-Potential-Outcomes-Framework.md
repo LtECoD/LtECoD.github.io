@@ -2,7 +2,7 @@
 hascode = false
 date = Date(2021, 04, 07)
 +++
-@def tags = ["causalinference"]
+@def tags = ["causalinference","potentialoutcomes"]
 
 # Potential Outcomes Framework
 
@@ -10,7 +10,7 @@ date = Date(2021, 04, 07)
 
 ## Definitions
 
-The potential outcome framework aims to **estimate potential outcomes and then calculate the treatment effect**. The treatment effect estimation is one of the central problems in causal inference under the potential outcome framework. Compared with structural causal model framework, which emphasize conceptualizing, expressing and reasoning about the effects of possible causal relationships among variables, the potential outcomes framework tent to emphasize estimating the size or strength of casual effects.
+The potential outcome framework aims to **estimate potential outcomes and then calculate the treatment effect**. The treatment effect estimation is one of the central problems in causal inference under the potential outcome framework. Compared with the structural causal model framework, which emphasizes conceptualizing, expressing, and reasoning about the effects of possible causal relationships among variables, the potential outcomes framework tent emphasizes estimating the size or strength of causal effects.
 
 There are several key concepts in the potential outcome framework.
 
@@ -22,7 +22,7 @@ Still taking smoking as an example, the treatment is smoking or not smoking. Not
 
 \definition{Potential Outcome}{Potential outcome is the outcome of a treatment that was applied to a unit.}
 
-An example is shown here to better illustrate the above three definitions:
+An example is shown here to illustrate the above three definitions better:
 \example{Consider the scenario where you are unhappy. And you are considering whether or not to get a dog to help make you happy. In this scenario, you is one of the unit, the treatment is whether or not to get a dog, and the potential outcome is happiness.}
 
 If you become happy after you get the dog, does this mean the dog caused you to be happy? Well, what if you would have also become happy had you not gotten the dog? Okey, answering these causal questions requires an important concept: treatment effect.
@@ -40,16 +40,16 @@ At the population-level, the treatment effect is named as Average Treatment Effe
 $$
 \text{ATE}=\mathbb{E}\left[ Y(T=1)-Y(T=0) \right]
 $$
-where $Y(T=1)$ and $Y(T=0)$ are the potential treated and control outcome of the whole population respectively.
+where $Y(T=1)$ and $Y(T=0)$ are the potential treated and control outcome of the whole population, respectively.
 
 At the subgroup level, the treatment effect is called Conditional Average Treatment Effect (CATE), which is defined as:
 $$
 \text{CATE}=\mathbb{E}\left[Y(T=1) | x \right]-\mathbb{E}\left[Y(T=0) | x \right]
 $$
 
-\bluebox{The objective of potential outcomes framework is to estimate the treatment defined on different levels.}
+\bluebox{The objective of the potential outcomes framework is to estimate the treatment defined on different levels.}
 
-In additional there are two definitions for variable, namely the pre-treatment variables and the post-treatment variables.
+In addition, there are two definitions for variable, namely the pre-treatment variables and the post-treatment variables.
 
 \definition{Pre-treatment Variables}{Pre-treatment variables are the variables that will not be affected by the treatment.}
 \definition{Post-treatment Variables}{The post-treatment variables are the variables that are affected by the treatment.}
@@ -74,7 +74,7 @@ $$
 
 ### Assumption 2: Ignorability
 
-When we want to compute the treatment effects, like ATE, a natural quantity that comes to mind is association difference: $\mathbb{E}[Y|T=1]-\mathbb{E}[Y|T=0]$. Unfortunately, this is not true in general due to confounding or background variables. However, aforementioned treatment effects are impossible to compute directly because we can't observe all potential outcomes in the same time. Assumption *ignorability* would make it so that the treatment effect is simply the associational difference.
+When we want to compute the treatment effects, like ATE, a natural quantity that comes to mind is association difference: $\mathbb{E}[Y|T=1]-\mathbb{E}[Y|T=0]$. Unfortunately, this is not true in general due to confounding or background variables. However, the treatment effect mentioned above is impossible to compute directly because we can't observe all potential outcomes simultaneously. Assumption *ignorability* would make it so that the treatment effect is simply the associational difference.
 
 Ignorability indicates that treatment is independent with potential outcomes:
 $$
