@@ -16,9 +16,9 @@ I am hosting here a small blog, updated once every blue moon. Most of my posts c
 
 [Potential Outcomes Framework](/post/2021/2021-04-07-Potential-Outcomes-Framework/)
 
-[Re-Weighting Methods](/post/2021/2021-05-20-Re-Weighting-Methods.md/)
+[Re-Weighting Methods](/post/2021/2021-05-20-Re-Weighting-Methods/)
 
-[The Backdoor Adjustment](/post/2021/2021-05-27-The-Backdoor-Adjustment.md)
+[About The Backdoor](/post/2021/2021-05-27-Backdoor/)
 
 <!-- [Structural Model Framework](/post/2021/2021-04-13-Structural-Model-Framework/) -->
 
