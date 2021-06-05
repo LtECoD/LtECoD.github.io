@@ -37,7 +37,6 @@ For instance:
   @@
 }
 
-
 \newcommand{\important}[1]{
     @@important
     #1
@@ -49,3 +48,4 @@ For instance:
     #1
     @@
 }
+

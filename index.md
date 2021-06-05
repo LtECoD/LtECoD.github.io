@@ -22,7 +22,7 @@
 
 * 2021.04.10 &ensp; New paper is accepted by Journal of Applied Intelligence (IF: 3.325, CCF C)
 
-* 2020.12.24 &ensp; Research intern (three months) in Tencent Inc.
+<!-- * 2020.12.24 &ensp; Research intern (three months) in Tencent Inc. -->
 
 ## Selected Paper
 

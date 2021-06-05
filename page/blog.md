@@ -18,7 +18,9 @@ I am hosting here a small blog, updated once every blue moon. Most of my posts c
 
 [Re-Weighting Methods](/post/2021/2021-05-20-Re-Weighting-Methods/)
 
-[About The Backdoor](/post/2021/2021-05-27-Backdoor/)
+[The Backdoor Adjustment](/post/2021/2021-05-27-Backdoor/)
+
+<!-- [Causal Graph](/post/2021/2021-06-02-Caual-Graph/) -->
 
 <!-- [Structural Model Framework](/post/2021/2021-04-13-Structural-Model-Framework/) -->
 
