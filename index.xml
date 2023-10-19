@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yangs Blog</title>
+    <link>http://127.0.0.1/</link>
+    <description>Recent content on Yangs Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="http://127.0.0.1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faq</title>
+      <link>http://127.0.0.1/faq/</link>
+      <pubDate>Thu, 10 Aug 2023 21:56:48 +0800</pubDate>
+      
+      <guid>http://127.0.0.1/faq/</guid>
+      <description>building</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://127.0.0.1/about/</link>
+      <pubDate>Thu, 10 Aug 2023 21:53:27 +0800</pubDate>
+      
+      <guid>http://127.0.0.1/about/</guid>
+      <description>building</description>
+    </item>
+    
+  </channel>
+</rss>
