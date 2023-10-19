@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/general/</loc>
+    <loc>ltecod.github.io/tags/general/</loc>
     <lastmod>2023-10-09T16:12:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>ltecod.github.io/posts/</loc>
     <lastmod>2023-10-09T16:12:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>ltecod.github.io/tags/</loc>
     <lastmod>2023-10-09T16:12:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>ltecod.github.io/</loc>
     <lastmod>2023-10-09T16:12:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</loc>
+    <loc>ltecod.github.io/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</loc>
     <lastmod>2023-10-09T16:12:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/faq/</loc>
+    <loc>ltecod.github.io/faq/</loc>
     <lastmod>2023-08-10T21:56:48+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>ltecod.github.io/about/</loc>
     <lastmod>2023-08-10T21:53:27+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/agi/</loc>
+    <loc>ltecod.github.io/tags/agi/</loc>
     <lastmod>2023-08-08T17:02:11+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2023/08/strong_ai_and_agi/</loc>
+    <loc>ltecod.github.io/posts/2023/08/strong_ai_and_agi/</loc>
     <lastmod>2023-08-08T17:02:11+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>ltecod.github.io/categories/</loc>
   </url>
 </urlset>

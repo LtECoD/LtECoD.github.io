@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yangs Blog</title>
-    <link>//localhost:1313/</link>
+    <link>ltecod.github.io/</link>
     <description>Recent content on Yangs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Oct 2023 16:12:00 +0800</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2023 16:12:00 +0800</lastBuildDate><atom:link href="ltecod.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>可定义性</title>
-      <link>//localhost:1313/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</link>
+      <link>ltecod.github.io/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</link>
       <pubDate>Mon, 09 Oct 2023 16:12:00 +0800</pubDate>
       
-      <guid>//localhost:1313/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</guid>
+      <guid>ltecod.github.io/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</guid>
       <description>定义是试图给代表某种事物的符号赋予意义，而非对事物本身予以定义。例如，我们可以对“椅子”这个词汇进行定义，而椅子本身是可以坐、可以搬动，甚至</description>
     </item>
     
     <item>
       <title>Faq</title>
-      <link>//localhost:1313/faq/</link>
+      <link>ltecod.github.io/faq/</link>
       <pubDate>Thu, 10 Aug 2023 21:56:48 +0800</pubDate>
       
-      <guid>//localhost:1313/faq/</guid>
+      <guid>ltecod.github.io/faq/</guid>
       <description>building</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>ltecod.github.io/about/</link>
       <pubDate>Thu, 10 Aug 2023 21:53:27 +0800</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
+      <guid>ltecod.github.io/about/</guid>
       <description>building</description>
     </item>
     
     <item>
       <title>人工智能与意识</title>
-      <link>//localhost:1313/posts/2023/08/strong_ai_and_agi/</link>
+      <link>ltecod.github.io/posts/2023/08/strong_ai_and_agi/</link>
       <pubDate>Tue, 08 Aug 2023 17:02:11 +0800</pubDate>
       
-      <guid>//localhost:1313/posts/2023/08/strong_ai_and_agi/</guid>
+      <guid>ltecod.github.io/posts/2023/08/strong_ai_and_agi/</guid>
       <description>ChatGPT被称为是通用人工智能的火花（The spark of AGI）。很多人认为通用人工智能会在不久后的将来出现，甚至是具备意识的人工智能也会问世。</description>
     </item>
     
