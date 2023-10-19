@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yangs Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Yangs Blog</description>
+    <title>Posts on Yangs Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Yangs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Oct 2023 16:12:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2023 16:12:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>可定义性</title>
       <link>http://localhost:1313/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</link>
@@ -14,24 +14,6 @@
       
       <guid>http://localhost:1313/posts/2023/10/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%80%A7/</guid>
       <description>定义是试图给代表某种事物的符号赋予意义，而非对事物本身予以定义。例如，我们可以对“椅子”这个词汇进行定义，而椅子本身是可以坐、可以搬动，甚至</description>
-    </item>
-    
-    <item>
-      <title>Faq</title>
-      <link>http://localhost:1313/faq/</link>
-      <pubDate>Thu, 10 Aug 2023 21:56:48 +0800</pubDate>
-      
-      <guid>http://localhost:1313/faq/</guid>
-      <description>building</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 10 Aug 2023 21:53:27 +0800</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>building</description>
     </item>
     
     <item>
