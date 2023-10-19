@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AGI on Yangs Blog</title>
-    <link>http://localhost:1313/tags/agi/</link>
+    <link>//localhost:61955/tags/agi/</link>
     <description>Recent content in AGI on Yangs Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 08 Aug 2023 17:02:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/agi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 17:02:11 +0800</lastBuildDate><atom:link href="//localhost:61955/tags/agi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人工智能与意识</title>
-      <link>http://localhost:1313/posts/2023/08/strong_ai_and_agi/</link>
+      <link>//localhost:61955/posts/2023/08/strong_ai_and_agi/</link>
       <pubDate>Tue, 08 Aug 2023 17:02:11 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/2023/08/strong_ai_and_agi/</guid>
+      <guid>//localhost:61955/posts/2023/08/strong_ai_and_agi/</guid>
       <description>ChatGPT被称为是通用人工智能的火花（The spark of AGI）。很多人认为通用人工智能会在不久后的将来出现，甚至是具备意识的人工智能也会问世。</description>
     </item>
     
