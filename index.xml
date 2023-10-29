@@ -5,7 +5,17 @@
     <link>https://ltecod.github.io/</link>
     <description>Recent content on 豌豆道场</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://ltecod.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Sat, 28 Oct 2023 12:03:30 +0800</lastBuildDate><atom:link href="https://ltecod.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深度生成模型（一）：前言</title>
+      <link>https://ltecod.github.io/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%80/</link>
+      <pubDate>Sat, 28 Oct 2023 12:03:30 +0800</pubDate>
+      
+      <guid>https://ltecod.github.io/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%80/</guid>
+      <description>虽然自己的研究方向为生成式AI的应用，但是对与各种生成式模型却是一知半解，缺乏深入的认识。网络上有各种各样的教程和解读，尽管看过不少，不过大</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://ltecod.github.io/about/</link>
