@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on 豌豆道场</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://ltecod.github.io/series/</link>
     <description>Recent content in Series on 豌豆道场</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 28 Oct 2023 12:03:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 12:03:30 +0800</lastBuildDate><atom:link href="https://ltecod.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Generative Modeling</title>
-      <link>http://localhost:1313/series/deep-generative-modeling/</link>
+      <link>https://ltecod.github.io/series/deep-generative-modeling/</link>
       <pubDate>Sat, 28 Oct 2023 12:03:30 +0800</pubDate>
       
-      <guid>http://localhost:1313/series/deep-generative-modeling/</guid>
+      <guid>https://ltecod.github.io/series/deep-generative-modeling/</guid>
       <description></description>
     </item>
     
