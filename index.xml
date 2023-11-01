@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>豌豆道场</title>
-    <link>https://ltecod.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 豌豆道场</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 28 Oct 2023 12:03:30 +0800</lastBuildDate><atom:link href="https://ltecod.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 12:03:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>深度生成模型（一）：前言</title>
-      <link>https://ltecod.github.io/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%80/</link>
+      <link>http://localhost:1313/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%80/</link>
       <pubDate>Sat, 28 Oct 2023 12:03:30 +0800</pubDate>
       
-      <guid>https://ltecod.github.io/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%80/</guid>
+      <guid>http://localhost:1313/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%B8%80/</guid>
       <description>虽然以生成式AI作为研究方向，但是对与各种生成式模型实在是一知半解，缺乏深入的认识。网络上的教程和解读纷繁多样，即使看过不少，不过大都囫囵吞</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ltecod.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltecod.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faq</title>
-      <link>https://ltecod.github.io/faq/</link>
+      <link>http://localhost:1313/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltecod.github.io/faq/</guid>
+      <guid>http://localhost:1313/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>版权说明</title>
-      <link>https://ltecod.github.io/copyright/</link>
+      <link>http://localhost:1313/copyright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltecod.github.io/copyright/</guid>
+      <guid>http://localhost:1313/copyright/</guid>
       <description>本站（ltecod.github.io）文章均为原创。 本站采用 CC BY-NC-ND 4.0 协议，转载时请遵守以下条款： 保留署名 深思豌豆 保留原文链接 不将本作品用于商</description>
     </item>
     
     <item>
       <title>标签</title>
-      <link>https://ltecod.github.io/tags/</link>
+      <link>http://localhost:1313/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ltecod.github.io/tags/</guid>
+      <guid>http://localhost:1313/tags/</guid>
       <description></description>
     </item>
     
