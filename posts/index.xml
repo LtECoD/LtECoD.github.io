@@ -6,14 +6,23 @@
     <description>Recent content in 文章 on 豌豆道场</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 10 Nov 2023 22:59:17 +0800</lastBuildDate><atom:link href="https://ltecod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2024 19:44:43 +0800</lastBuildDate><atom:link href="https://ltecod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>【译】深度生成建模（二）：为什么需要深度生成模型？</title>
+      <title>数据传输视角下的语言模型和VAE</title>
+      <link>https://ltecod.github.io/posts/2023/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93/</link>
+      <pubDate>Sat, 10 Feb 2024 19:44:43 +0800</pubDate>
+      
+      <guid>https://ltecod.github.io/posts/2023/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93/</guid>
+      <description>生成式模型可以抽象成数据传输游戏：Alice要向Bob发送一些数据，而他们的目标是发送的损失 尽量小，所谓损失就是编码的位数 。 数据传输视角下的</description>
+    </item>
+    
+    <item>
+      <title>【译】深度生成建模（二）</title>
       <link>https://ltecod.github.io/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%BA%8C/</link>
       <pubDate>Fri, 10 Nov 2023 22:59:17 +0800</pubDate>
       
       <guid>https://ltecod.github.io/posts/2023/%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E4%BA%8C/</guid>
-      <description>1.1 人工智能不仅仅是决策 在思考深度生成建模之前，先看一个简单的例子：假如我们已经训练了一个对动物图像$\bm{x}\in\mathbb{Z}^</description>
+      <description>1.1 人工智能不仅仅是决策 在思考深度生成建模之前，先看一个简单的例子：假如我们已经训练了一个对动物图像$\boldsymbol{x}\in\ma</description>
     </item>
     
     <item>
